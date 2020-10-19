@@ -1,0 +1,17 @@
+Note: The Makefile included depends on GNU make and g++ compiler
+
+
+To compile and run the program, type:
+	make
+	Follow the prompts for input
+
+To compile the program only, type:
+	make plot_covid
+
+To run the program only, type:
+	make run
+	Follow the prompts for input
+
+To clean the directory, type:
+	make clean
+	(This will remove all the object files and the binary file)
