@@ -1,3 +1,10 @@
+*Will be using a summary dataset that can be accessed using an API here:  https://api.covid19api.com/summary.
+*From a command prompt, you should be able to pull the latest version of the dataset using the command: wget https://api.covid19api.com/summary
+*This will download the summary data in JSON format, and it needs to be converted into csv
+
+
+
+
 Note: The Makefile included depends on GNU make and g++ compiler
 
 
